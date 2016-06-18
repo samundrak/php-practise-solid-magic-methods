@@ -1,0 +1,11 @@
+{
+    "name": "php/practise",
+    "description": "Practise in php like of magic methods, Solid Principle and Design Patterns",
+    "authors": [
+        {
+            "name": "samundrak",
+            "email": "samundrak@yahoo.com"
+        }
+    ],
+    "require": {}
+}
